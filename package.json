@@ -1,0 +1,30 @@
+{
+  "name": "@coinv/periphery",
+  "version": "1.0.0",
+  "description": "Router contract for interaction with Coinvesting Dex.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarcysyo/coinvesting-periphery.git"
+  },
+  "keywords": [
+    "router",
+    "dex"
+  ],
+  "files": [
+    "contracts",
+    "build"
+  ],
+  "author": "tarcisius3",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tarcysyo/coinvesting-periphery/issues"
+  },
+  "homepage": "https://github.com/tarcysyo/coinvesting-periphery#readme",
+  "dependencies": {
+    "@coinv/core": "^1.0.0"
+  }
+}
